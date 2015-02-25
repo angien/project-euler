@@ -8,6 +8,7 @@ public class p1 {
 			if (args.length != 1)
 				throw new Exception();
 
+			// actual computation
 			int num = new Integer(args[0]);
 			int sum = 0;
 
